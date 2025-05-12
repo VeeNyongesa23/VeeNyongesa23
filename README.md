@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeeNyongesa23
 - 👀 I’m interested in learning the relationship between rust software and cryptography
-- 🌱 I’m currently learning at web 3 kilimani
+- 🌱 I’m currently working at web 3 kilimani
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ,just smile 
 - 😄 Pronouns: ...
